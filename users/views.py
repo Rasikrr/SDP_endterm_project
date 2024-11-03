@@ -10,7 +10,7 @@ from users.models import CustomUser
 from users.forms import LoginForm, CreateUserForm, ProfileForm
 
 
-
+@log_request
 def signin(request):
     if request.method == "POST":
         form = LoginForm(request.POST)
