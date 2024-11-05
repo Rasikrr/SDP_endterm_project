@@ -3,7 +3,7 @@
 
 ## Project Overview
 1. **Team Members**: Amir Kurmanbekov, Rassul Turtulov, Kaminur Orynbek, Adlet Serikbay.
-2. **Project Name**: Craftspace
+2. **Project Name**: CraftSpace
 3. **Description**: An online furniture store offering a wide variety of furniture products with a seamless shopping experience.
 4. **Technologies Used**:
    - **Backend**: Python, Django
